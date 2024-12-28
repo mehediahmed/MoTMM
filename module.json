@@ -16,4 +16,8 @@
       "type": "Scene"
     }
   ]
+  ,
+  "manifest": "https://github.com/mehediahmed/MoTMM/releases/download/Module/module.json",
+  "download": "https://github.com/mehediahmed/MoTMM/releases/download/Release/MMotMM.zip"
+
 }
